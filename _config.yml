@@ -1,0 +1,46 @@
+# Site settings
+title: "DonghweeYoon's Blog"
+description: "Jekyll + Retlab theme powered by GitHub Pages"
+lang: ko-KR
+url: "https://DonghweeYoon.github.io"
+baseurl: ""   
+
+# Theme
+remote_theme: benbalter/retlab
+
+# Navigation
+nav_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+footer_pages:
+  - about.md
+
+# Contact & social links
+contact_links:
+  - name: GitHub
+    url: https://github.com/your-username
+    icon: github
+
+# Plugins (GitHub Pages 호환)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
