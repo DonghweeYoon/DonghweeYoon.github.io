@@ -20,7 +20,7 @@ footer_pages:
 # Contact & social links
 contact_links:
   - name: GitHub
-    url: https://github.com/your-username
+    url: https://github.com/DonghweeYoon
     icon: github
 
 # Plugins (GitHub Pages 호환)
