@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DonghweeYoon's Blog # the main title
+title: Jeremy's Blog # the main title
 
-tagline: 개발 블로그 # it will display as the subtitle
+tagline: 연구 개발 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Jekyll + Chirpy theme powered by GitHub Pages
@@ -41,7 +41,7 @@ social:
     - https://github.com/DonghweeYoon # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/donghwee-yoon-b51573192/
 
 # Site Verification Settings
 webmaster_verifications:
