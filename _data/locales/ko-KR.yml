@@ -1,0 +1,18 @@
+# © 2021 Cotes Chung
+# MIT Licensed
+
+# jekyll-theme-chirpy에서 사용하는 한국어 locale 파일
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: 이 사이트는 :LICENSE_NAME 하에 배포됩니다.
+    name: All Rights Reserved
+    link: https://github.com/DonghweeYoon/DonghweeYoon.github.io/blob/main/LICENSE
+
+  # Displayed in the footer
+  brief: 일부 권리 보유
+  verbose: >-
+    명시되지 않는 한 이 사이트의 블로그 포스트는
+    작성자에게 모든 권리가 있습니다.
+
