@@ -18,7 +18,7 @@ This is a technical blog focusing on AI, Machine Learning, and Deep Learning res
 ## 📄 License
 
 - **Theme & Code**: MIT License (see [LICENSE](LICENSE))
-- **Blog Content**: © 2022-2025 Donghwee Yoon. All rights reserved.
+- **Blog Content**: © 2022- Donghwee Yoon. All rights reserved.
 
 ## 👤 Author
 
@@ -30,4 +30,4 @@ This is a technical blog focusing on AI, Machine Learning, and Deep Learning res
 
 ---
 
-© 2022-2025 Donghwee Yoon. All rights reserved.
+© 2022- Donghwee Yoon. All rights reserved.
